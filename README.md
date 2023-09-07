@@ -2,6 +2,7 @@
 Langchain python implementation, reference-rich presentation AI assistant. 
 
 Project Objectives: 
+
 Goal no 01: Automated Presentation Guide Generation
 Develop an AI that can automatically generate a presentation guide based on a user input that consists of a certain topic or subject. The goal is to create a tool that generates key points that lead to a logical and put-together presentation.
 
